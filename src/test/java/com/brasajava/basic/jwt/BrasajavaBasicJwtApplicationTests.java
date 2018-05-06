@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt;
+package com.brasajava.basic.jwt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

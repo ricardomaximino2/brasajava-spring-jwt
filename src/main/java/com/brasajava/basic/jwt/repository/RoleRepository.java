@@ -1,8 +1,8 @@
-package com.brasajava.basicjwt.repository;
+package com.brasajava.basic.jwt.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.brasajava.basicjwt.model.Role;
+import com.brasajava.basic.jwt.model.Role;
 
 
 public interface RoleRepository extends CrudRepository<Role, Long> {

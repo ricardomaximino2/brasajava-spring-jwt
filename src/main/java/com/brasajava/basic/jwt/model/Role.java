@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.model;
+package com.brasajava.basic.jwt.model;
 
 import javax.persistence.Entity;
 import javax.persistence.EnumType;

@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.config;
+package com.brasajava.basic.jwt.config;
 
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;

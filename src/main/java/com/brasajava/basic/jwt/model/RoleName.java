@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.model;
+package com.brasajava.basic.jwt.model;
 
 public enum RoleName {
 	ROLE_USER, ROLE_ADMIN

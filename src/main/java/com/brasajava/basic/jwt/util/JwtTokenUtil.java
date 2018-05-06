@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.util;
+package com.brasajava.basic.jwt.util;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
 
-import com.brasajava.basicjwt.model.User;
+import com.brasajava.basic.jwt.model.User;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Clock;

@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.exception;
+package com.brasajava.basic.jwt.exception;
 
 public class AuthenticationException extends RuntimeException {
 

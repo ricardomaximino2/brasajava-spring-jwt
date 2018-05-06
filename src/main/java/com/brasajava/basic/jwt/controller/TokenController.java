@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.controller;
+package com.brasajava.basic.jwt.controller;
 
 import java.util.Objects;
 
@@ -22,11 +22,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.brasajava.basicjwt.exception.AuthenticationException;
-import com.brasajava.basicjwt.model.AuthenticationRequest;
-import com.brasajava.basicjwt.model.TokenResponse;
-import com.brasajava.basicjwt.model.User;
-import com.brasajava.basicjwt.util.JwtTokenUtil;
+import com.brasajava.basic.jwt.exception.AuthenticationException;
+import com.brasajava.basic.jwt.model.AuthenticationRequest;
+import com.brasajava.basic.jwt.model.TokenResponse;
+import com.brasajava.basic.jwt.model.User;
+import com.brasajava.basic.jwt.util.JwtTokenUtil;
 
 @RestController
 @CrossOrigin("*")

@@ -1,10 +1,10 @@
-package com.brasajava.basicjwt.init;
+package com.brasajava.basic.jwt.init;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import com.brasajava.basicjwt.repository.UserRepository;
+import com.brasajava.basic.jwt.repository.UserRepository;
 
 @Component
 public class StartCommandLine implements CommandLineRunner{

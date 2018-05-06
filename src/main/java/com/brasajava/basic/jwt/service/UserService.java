@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.service;
+package com.brasajava.basic.jwt.service;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,8 +9,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.brasajava.basicjwt.model.User;
-import com.brasajava.basicjwt.repository.UserRepository;
+import com.brasajava.basic.jwt.model.User;
+import com.brasajava.basic.jwt.repository.UserRepository;
 
 
 @Service

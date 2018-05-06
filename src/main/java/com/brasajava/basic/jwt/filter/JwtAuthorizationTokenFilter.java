@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.filter;
+package com.brasajava.basic.jwt.filter;
 
 import java.io.IOException;
 
@@ -15,8 +15,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.web.authentication.WebAuthenticationDetailsSource;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import com.brasajava.basicjwt.model.User;
-import com.brasajava.basicjwt.util.JwtTokenUtil;
+import com.brasajava.basic.jwt.model.User;
+import com.brasajava.basic.jwt.util.JwtTokenUtil;
 
 import io.jsonwebtoken.ExpiredJwtException;
 

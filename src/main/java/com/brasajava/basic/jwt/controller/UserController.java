@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.controller;
+package com.brasajava.basic.jwt.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

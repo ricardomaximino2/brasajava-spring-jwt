@@ -1,4 +1,4 @@
-package com.brasajava.basicjwt.config;
+package com.brasajava.basic.jwt.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -17,9 +17,9 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
-import com.brasajava.basicjwt.filter.JwtAuthorizationTokenFilter;
-import com.brasajava.basicjwt.service.UserService;
-import com.brasajava.basicjwt.util.JwtTokenUtil;
+import com.brasajava.basic.jwt.filter.JwtAuthorizationTokenFilter;
+import com.brasajava.basic.jwt.service.UserService;
+import com.brasajava.basic.jwt.util.JwtTokenUtil;
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true)
