@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 05 21:48:04 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0163-31d8-d602-000000d2b008 
+on database directory memory:C:\Users\Ricardo\Documents\GitHub\work-template\brasajava-basic-jwt\testdb with class loader sun.misc.Launcher$AppClassLoader@4c12b6 
+Loaded from file:/C:/Users/Ricardo/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\Ricardo\Documents\GitHub\work-template\brasajava-basic-jwt
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
